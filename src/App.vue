@@ -2,11 +2,11 @@
   <div id="app">
     <section class="profile section">
       <section class="head">
-        <img src="@/assets/profile-img.png" alt="Pankil Shah">
+        <img src="@/assets/profile-img.png" alt="Test User">
       </section>
       <section class="content">
         <section>
-          <h1>Pankil Shah</h1>
+          <h1>Test User</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.</p>
           <ul class="links">
             <li><a href="https://twitter.com" target="_blank">TWITTER</a></li>
